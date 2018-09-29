@@ -1,0 +1,4 @@
+  File "readfile.py", line 13
+    else
+       ^
+SyntaxError: invalid syntax
